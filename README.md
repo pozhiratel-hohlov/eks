@@ -1,4 +1,4 @@
-# eks
+# Ievads
 Sveiki! Laipni lūdzam C++ vektoru testā!
 
 Šis tests ir paredzēts, lai pārbaudītu jūsu zināšanas par vektoriem C++ valodā. Testā ir 10 jautājumi, un jums būs jāatbild uz katru no tiem, izvēloties pareizo atbildi no dotajiem variantiem.
