@@ -20,7 +20,7 @@ int main() {
 };
 //vektors ar atbildes
   vector<vector<string>> answerChoices = {
-  {"1) <vector>", "2) <array>", "3) <list>", "4)<map>"},
+  {"1) <vector>", "2) <array>", "3) <list>", "4) <map>"},
   {"1) vector<int> vec;", "2) vector vec<int>;", "3) vector<int> vec{};", "4) vector<int> vec();"},
   {"1) vec.push_back(element);", "2) vec.insert(element);", "3)vec.emplace_back(element); ", "4) vec.add(element);"},
   {"1) vec.size();", "2) vec.count();", "3) vec.lenght();", "4) vec.capacity();"},
